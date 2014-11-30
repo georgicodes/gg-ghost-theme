@@ -1,0 +1,116 @@
+/*******************************************************
+ * Custom theme code styles
+ * Written by Themelize.me (http://themelize.me)
+ * 
+ * @tableofcontents
+ *
+ * 1. General Elements
+ * 2. Colours
+ * 3. Responsiveness/media queries
+ * 4. Misc
+ * 
+ * This is an empty starter template for overriding styles
+ * set by Bootstrap & the theme
+ *
+ * NOTE: We recommend putting all custom CSS code here to make updates easier!
+ * 
+ * ----------------------------------------------------
+ * 
+ * Remove unused code & commenting for better performances
+ * 
+ * ----------------------------------------------------
+ * 
+ * @see - Usefuls tools online for editing
+ * 1. http://charliepark.org/bootstrap_buttons/ - Button style generator
+ * 2. http://www.colorzilla.com/gradient-editor/ - CSS3 gradient maker
+ * 
+ * 
+ ******************************************************/
+/*******************************************************
+ *
+ * @section 1. General Elements
+ * 
+ ******************************************************/
+#header {
+  background-color: #6076BD;
+  top: 0px;
+}
+#header a  {
+  color: #ECE91C;
+}
+.heart {
+  color: #6076BD;
+}
+.main-menu a {
+  font-size: 16px;
+}
+.page-border-top {
+  height:6px;
+}
+.b1 {
+  background-color: #ECE91C;
+}
+.b2 {
+  background-color: #FF6E3D;
+  top: 6px;
+}
+.b3 {
+  background-color: #FFAA00;
+  top: 12px;
+}
+.b4 {
+  background-color: #E7D025;
+  top: 18px;
+}
+.b5 {
+  background-color: #72CFCA;
+  top: 24px;
+}
+
+#content .content-bottom {
+  background-color: #9F4BC8;
+}
+#footer .rss-feed i {
+  color: #E7D025;
+}
+#footer {
+  background-color: #009cd6;
+}
+h4 {
+  color:#6076BD;
+}
+h3 {
+  color:#009cd6;
+}
+h2 {
+  color:#FF6E3D;
+}
+
+
+
+/*******************************************************
+ *
+ * @section 2. Colours
+ * 
+ ******************************************************/
+/*******************************************************
+ *
+ * @section 3. Responsiveness/media queries
+ * 
+ ******************************************************/
+/* Extra small devices (phones, up to 480px) */
+/* No media query since this is the default in Bootstrap */
+@media (min-width: 768px) {
+  /* Small devices (tablets, 768px and up) */
+}
+@media (min-width: 992px) {
+  /* Medium devices (desktops, 992px and up) */
+}
+@media (min-width: 1200px) {
+  /* Large devices (large desktops, 1200px and up) */
+}
+/*******************************************************
+ *
+ * @section 4. Misc
+ * 
+ ******************************************************/
